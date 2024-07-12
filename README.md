@@ -2,10 +2,10 @@
 a sample rank for dotnet DB most dev by pure C#/vb.net/F#
 
 
-https://github.com/pmikstacki/SliccDB
+https://github.com/pmikstacki/SliccDB                  Light Embedded Graph Database for .net
 
 https://github.com/stonstad/Stellar.FastDB      Embedded document storage built for performance and high concurrency.
-https://github.com/stonstad/Stellar.FastDB  A library of cross platform C# data structures. Generic B-tree written in C#, which can be replaced with NoSQL database stored in the memory of discharge requirements in real-time (Firebase, Redis Cache, SAP HANA, Exadata, OLTP, etc.).
+https://github.com/FriendlyCSharp/Databases  A library of cross platform C# data structures. Generic B-tree written in C#, which can be replaced with NoSQL database stored in the memory of discharge requirements in real-time (Firebase, Redis Cache, SAP HANA, Exadata, OLTP, etc.).
 https://github.com/pocketsol/VestPocket    Single-file persisted lookup key/value database contained in a pure .NET 7.0+ library. All records persisted are kept in-memory for fast retrieval and synchronized with the file.
 https://github.com/cdy816/mars      Mars 数据库是一个集数据采集、存储、分析为一体的实时数据库
 https://github.com/Alachisoft/NosDB      NosDB: Highly Scalable NoSQL Database for .NET
@@ -25,5 +25,14 @@ https://github.com/nam178/FooDBYour   own custom-build database
 [![GitHub Streak](https://img.shields.io/github/stars/JeremyLikness/SterlingNoSQL.svg?style=social&label=Stars)](https://github.com/JeremyLikness/SterlingNoSQL)
 
 [SapphireDb](https://github.com/SapphireDb/SapphireDb) 
-[![GitHub Streak](https://img.shields.io/github/stars/SapphireDb/SapphireDb.svg?style=social&label=Stars)](https://github.com/SapphireDb/SapphireDb)
+[![GitHub Streak](https://img.shields.io/github/stars/SapphireDb/SapphireDb.svg?style=social&label=Stars)](https://github.com/SapphireDb/SapphireDb)            SapphireDb Server, a self-hosted, easy to use realtime database for Asp.Net Core and EF Core
 
+
+https://github.com/VeloxDB/VeloxDB                  An object oriented database for building next generation solutions with .NET and C#.
+https://github.com/usinesoft/Cachalot            Fastest transactional database for dotnet applications (classic or core); it can also be used as a high performance distributed cache
+https://github.com/Bobris/BTDB                  Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
+https://github.com/Cratis/Chronicle                  Event Sourcing database built with ease of use, productivity, compliance and software evolution in mind.
+https://github.com/mizrael/EvenireDB                  This project is a Proof-of-Concept of a small stream-based DB engine.One of the potential use cases is Event Sourcing. I
+https://github.com/jessiepathfinder/LesbianDB-v2.1                  An ultra-simple, high-performance, work-in-progress database
+https://github.com/StephenCleary/ArcDb                        An ACID .NET relational database. More specifically, ArcDb is a disk-based, row-oriented OLTP storage engine.
+https://github.com/Build5Nines/SharpVector                  Lightweight In-memory Vector Database to embed in any .NET Applications
